@@ -1,0 +1,21 @@
+h2 {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+p {
+  padding: 10px;
+}
+
+.footer {
+  margin-top: 75px;
+}
+
+.jumbotron {
+  background-color: rgb(37, 99, 177) !important;
+  color: white !important;
+
+}
